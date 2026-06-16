@@ -1,6 +1,6 @@
 NadaRanking – Tus tiempos al segundo
 
-¿Eres nadador federado? ¿Entrenas cada día para arañar décimas? ¿Quieres saber, en tiempo real, dónde estás posicionado frente a tus rivales de tu comunidad autónoma o de toda España? NadaRanking es la herramienta oficial que te conecta con los datos de la Real Federación Española de Natación (RFEN) y los convierte en información útil, clara y accesible desde tu móvil.
+¿Eres nadador federado? ¿Quieres saber, en tiempo real, dónde estás posicionado frente a tus rivales de tu comunidad autónoma o de toda España? NadaRanking es la herramienta oficial que te conecta con los datos de la Real Federación Española de Natación (RFEN) y los convierte en información útil, clara y accesible desde tu móvil.
 
 Datos oficiales, actualizados al segundo
 Olvídate de listados en PDF desactualizados o de esperar a que publiquen clasificaciones. NadaRanking trabaja con la fuente oficial de la RFEN y actualiza sus datos en tiempo real. En cuanto una marca se homologa, tú ya puedes verla reflejada en tu perfil y en el ranking general.
